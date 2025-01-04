@@ -18,8 +18,8 @@ I specialize in **bioinformatics**, **data science**, and the development of **b
   Comprehensive analysis of somatic mutations in **CML** and **CLL** using **high-throughput sequencing** to inform treatment protocols and improve patient outcomes.  
   [Explore the Research](https://github.com/CollinNzunda/CML-CLL-Genomic-Profiling)
 
-- <b>**Somatic Mutation Analysis Pipeline**</b>  
-  Developing bioinformatics pipelines for the identification and annotation of **somatic mutations** to better understand cancer progression.  
+- <b>**Reticulocyte Transciptomics(Gene Expression) Analysis Pipeline**</b>  
+  Developing bioinformatics pipelines for the Gene Expression Profiling of Reticulocytes: A Transcriptional Exploration of Fetal Hemoglobin for Enhanced Treatment Strategies for sickle cell disease.  
   [Explore the Pipeline](https://github.com/CollinNzunda/Somatic-Mutation-Analysis)
 
 ---
