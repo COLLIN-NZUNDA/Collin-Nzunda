@@ -20,7 +20,7 @@ I specialize in **bioinformatics**, **data science**, and the development of **b
 
 - <b>**Reticulocyte Transciptomics(Gene Expression) Analysis Pipeline**</b>  
   Developing bioinformatics pipelines for the Gene Expression Profiling of Reticulocytes: A Transcriptional Exploration of Fetal Hemoglobin for Enhanced Treatment Strategies for sickle cell disease.  
-  [Explore the Pipeline](https://github.com/CollinNzunda/Somatic-Mutation-Analysis)
+  [Explore the Pipeline](https://github.com/COLLIN-NZUNDA/Reticulocyte-Transcriptomics-SCD/tree/main)
 
 ---
 
