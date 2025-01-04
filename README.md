@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 About Me:</h2>
 
-I am a **Molecular Biologist**, **Bioinformatician**, and **Data Analyst** with a strong foundation in **genomic medicine** and **precision oncology**. Currently based at **Muhimbili University of Health and Applied Sciences**, my work revolves around leveraging **next-generation sequencing** (NGS) technologies, including **Nanopore sequencing**, to explore the genetic basis of **hematological malignancies** such as **Chronic Myeloid Leukaemia (CML)** and **Chronic Lymphocytic Leukaemia (CLL)**.
+I am a **Molecular Biologist**, **Bioinformatician**, and **Data Scientist** with a strong foundation in **genomic medicine** and **precision oncology**. Currently based at **Muhimbili University of Health and Applied Sciences**, my work revolves around leveraging **next-generation sequencing** (NGS) technologies, including **Nanopore sequencing**, to explore the genetic basis of **hematological malignancies** such as **Chronic Myeloid Leukaemia (CML)** and **Chronic Lymphocytic Leukaemia (CLL)**.
 
 I specialize in **bioinformatics**, **data science**, and the development of **bioinformatics pipelines** that combine **R**, **Python**, and **LaTeX** for data analysis, visualization, and scientific communication. My work is focused on providing data-driven insights that improve treatment strategies and patient outcomes in **low-resource settings**.
 
