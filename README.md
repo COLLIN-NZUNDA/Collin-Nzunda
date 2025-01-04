@@ -1,4 +1,4 @@
-<h1>Hi, I'm Collin Nzunda! <br/><a href="https://github.com/CollinNzunda" style="color: #007BFF;">Molecular Biologist</a>, <a href="https://www.linkedin.com/in/collinnzunda" style="color: #007BFF;">Bioinformatician</a>, <a href="https://x.com/CollinNzunda" style="color: #007BFF;">Data Analyst</a></h1>
+<h1>Hi, I'm Collin Nzunda! <br/><a href="https://github.com/CollinNzunda" style="color: #007BFF;">Molecular Biologist</a>, <a href="https://www.linkedin.com/in/collinnzunda" style="color: #007BFF;">Bioinformatician</a>, <a href="https://x.com/CollinNzunda" style="color: #007BFF;">Data Scientist</a></h1>
 
 <h2>👨‍💻 About Me:</h2>
 
