@@ -98,7 +98,7 @@ TP53-IGHV-CLL-Tanzania/
 
 **Principal Investigator:** Collin Nzunda  
 **Institution:** Muhimbili University of Health and Applied Sciences  
-**Email:** [collin.nzunda@muhas.ac.tz]  
+**Email:** [nzundacr@gmail.com]  
 **LinkedIn:** [linkedin.com/in/collinnzunda](https://linkedin.com/in/collinnzunda)  
 **Twitter/X:** [@CollinNzunda](https://x.com/CollinNzunda)
 
