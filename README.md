@@ -18,6 +18,10 @@ I specialize in **bioinformatics**, **data science**, and the development of **b
   Comprehensive analysis of somatic mutations in **CML** and **CLL** using **high-throughput sequencing** to inform treatment protocols and improve patient outcomes.  
   [Explore the Research](https://github.com/CollinNzunda/CML-CLL-Genomic-Profiling)
 
+- <b>**TP53 and IGHV CLL in Tanzania**</b>  
+  Research on **TP53** and **IGHV** mutations in **Chronic Lymphocytic Leukemia** patients in Tanzania, including QR code generation tools for presentations and academic materials.  
+  [Explore the Project](https://github.com/COLLIN-NZUNDA/Collin-Nzunda/tree/main/TP53-IGHV-CLL-Tanzania)
+
 - <b>**Reticulocyte Transciptomics(Gene Expression) Analysis Pipeline**</b>  
   Developing bioinformatics pipelines for the Gene Expression Profiling of Reticulocytes: A Transcriptional Exploration of Fetal Hemoglobin for Enhanced Treatment Strategies for sickle cell disease.  
   [Explore the Pipeline](https://github.com/COLLIN-NZUNDA/Reticulocyte-Transcriptomics-SCD/tree/main)
