@@ -19,7 +19,7 @@ I specialize in **bioinformatics**, **data science**, and the development of **b
   [Explore the Research](https://github.com/CollinNzunda/CML-CLL-Genomic-Profiling)
 
 - <b>**TP53 and IGHV CLL in Tanzania**</b>  
-  Research on **TP53** and **IGHV** mutations in **Chronic Lymphocytic Leukemia** patients in Tanzania, including QR code generation tools for presentations and academic materials.  
+  Research on **TP53** and **IGHV** mutations in **Chronic Lymphocytic Leukemia** patients in Tanzania. 
   [Explore the Project](https://github.com/COLLIN-NZUNDA/Collin-Nzunda/tree/main/TP53-IGHV-CLL-Tanzania)
 
 - <b>**Reticulocyte Transciptomics(Gene Expression) Analysis Pipeline**</b>  
